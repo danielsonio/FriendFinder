@@ -19,7 +19,7 @@ var friendArray = [
   {
     name: "Thor",
     photo: "http://1.bp.blogspot.com/_2yGVHa4594A/SrkXjXKEXqI/AAAAAAAAAlw/oqZuL6hSIbA/s400/Picture+6.png",
-    questionData: [1,1,1,1,1,1,1,1,1,1]
+    questionData: [2,1,1,3,1,1,2,1,4,1]
   },
   {
     name: "Bea",
